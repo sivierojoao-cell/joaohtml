@@ -1,6 +1,15 @@
 body{
     background-color: orange;
+    text-align: center;
+}
+.cartao{
+    width: 60%;
+    background-color: white;
+    margin:auto;
 }
 img{
     width: 500px;
+}
+h1{
+    color: greenyellow;
 }
