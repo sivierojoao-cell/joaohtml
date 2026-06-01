@@ -1,11 +1,17 @@
 body{
-    background-color: orange;
+    background-image:url("https://i.imgur.com/7QeAWe6.jpeg");
+    background-size: 100%;
+
+    background-color: black;
     text-align: center;
 }
 .cartao{
     width: 60%;
-    background-color: white;
+    background-color: orange;
     margin:auto;
+    border-radius: 100px;
+    border-style: groove;
+    border-color: blue;
 }
 img{
     width: 500px;
