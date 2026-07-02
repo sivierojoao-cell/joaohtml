@@ -1,29 +1,15 @@
+html, body {
+    height: 100%;
+}
 body{
-    background-image:url("https://i.imgur.com/7QeAWe6.jpeg");
-    background-size: 100%;
-
-    background-color: black;
-    text-align: center;
-}
-.cartao{
-    width: 60%;
-    background-color: black;
-    margin:auto;
-    border-radius: 100px;
-    border-style: groove;
-    border-color: blue;
-    margin-top: 40px;
-}
-img{
-    margin-top: 20px;
-    width: 500px;
+    background-image: url("https://conhecimentocientifico.r7.com/wp-content/uploads/2019/08/bandeira-do-brasil-e-seus-significados-e1566578436810.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
 }
 h1{
-    color: orange;
-}
-a{
-    text-decoration: none;
-}
-button{
-    background-color: yellow;
+    color: blueviolet;
 }
