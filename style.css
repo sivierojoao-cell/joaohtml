@@ -1,25 +1,59 @@
 body{
-    background-image:url("https://i.imgur.com/7QeAWe6.jpeg");
-    background-size: 100%;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    background-size: cover;
+}
 
-    background-color: black;
+.portifolio{
+    text-align: center;
+    background-color: gray;
+    margin: 90px;
+    max-width: 5000px;
+    border-style: groove;
+    border-color: red;
+}
+
+main{
+    margin: auto;
     text-align: center;
 }
-.cartao{
-    width: 50%;
-    background-color: orange;
-    margin:auto;
-    border-radius: 100px;
+
+
+
+button{
+    background-color: yellow;
+}
+
+h1{
+    text-shadow: 50px;
+    margin: 60px;
+}
+
+img{
+    border-radius: 30px;
+    width: 100px;
+}
+
+a:hover{
+    background-color: blue;
+    transform: scale(1.6);
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    border-style: groove;
+    border-color: red;
+}
+
+a{
+    display: block;
+    background-color: red;
+    max-width: 20%;
+    padding: 20px 0;
+    color: white;
+    margin:15px auto;
+    border-radius: 10px;
     border-style: groove;
     border-color: blue;
-
-}
-img{
-    width: 500px;
-}
-h1{
-    color: greenyellow;
-}
-a{
     text-decoration: none;
 }
